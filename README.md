@@ -24,7 +24,8 @@ A responsive website built for the ByteSpace New assessment, based on the provid
 ├── course-reviews.html   # Course reviews page
 ├── creator-profile.html  # Creator profile page
 ├── 404.html              # 404 Not Found page
-├── style.css             # Styles
+├── styles/
+   ├── style.css          # Css file
 ├── assets/           # Images, icons and grid background
 └── README.md
 ```
