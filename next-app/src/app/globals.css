@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+:root {
+  --blue: #003be2;
+  --lime: #c9ff00;
+  --yellow: #c9ff00;
+}
+
+body {
+  margin: 0;
+  background: var(--blue) url("/assets/Grid.png") center / cover fixed;
+}
